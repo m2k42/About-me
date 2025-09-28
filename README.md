@@ -20,3 +20,4 @@
 
 **Портфолио и рекомендации с предыдущего места стажировки готов предоставить по запросу.**
 
+![](https://raw.githubusercontent.com/m2k42/About-me/refs/heads/main/me.jpg)
